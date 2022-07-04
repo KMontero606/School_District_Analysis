@@ -7,7 +7,7 @@
 
 - How is the district summary affected?
   
-  After performing the school district analysis with the adjusted math and reading grade scores, the district summary report yield no significant change. At most, the   difference between the initial and adjusted summaries is no more than 0.3%.
+  After performing the school district analysis with the adjusted math and reading grade scores, the district summary report yield no significant change. At most, the difference between the initial and adjusted summaries is no more than 0.3%.
   
   Initial District Report:
   
@@ -19,7 +19,7 @@
 
 - How is the school summary affected?
 
-  The school summary analysis with the adjusted math and reading grade scores yield very significant change where the average and overall passing percentages went from   the 60% range to 90% range.
+  The school summary analysis with the adjusted math and reading grade scores yield very significant change where the passing math and reading percentage are at 93% and 97% respectively from 67% and 70% repectively and overall passing percentages is at 91% from 65%.
   
   Initial School Summary:
   
