@@ -31,7 +31,7 @@
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-  Replacing the ninth-grade scores for Thomson High school placed the school in the top five schools for high performing schools.
+  Replacing the ninth-grade scores for Thomson High school placed the school in the top five high performing schools.
   
   <img width="722" alt="Adjusted Top 5 Schools" src="https://user-images.githubusercontent.com/106962921/177179528-80bcd01d-dafd-4e00-959f-49c2016e7326.png">
 
