@@ -47,9 +47,13 @@
 
   <img width="724" alt="Scores by School Spending" src="https://user-images.githubusercontent.com/106962921/177181857-631379b5-e401-42b9-92ed-f072248d4af9.png">
 
+  <img width="613" alt="Spending Summary" src="https://user-images.githubusercontent.com/106962921/177192246-8e5dd5c6-59af-46b2-8a00-1689e677154d.png">
+
   * Scores by school size
 
   <img width="722" alt="Scores by School Size" src="https://user-images.githubusercontent.com/106962921/177182060-92d1fc44-72e3-4822-b2c4-564fb4f59dba.png">
+
+  <img width="565" alt="Size Summary" src="https://user-images.githubusercontent.com/106962921/177192290-49431631-04be-4662-869f-34f459725f10.png">
 
   * Scores by school type
 
@@ -61,7 +65,10 @@
 
 1. The passing percentage for both subjects change from the 60% range to the 90% range.   
 2. Thomson High School went from the bottom perfoming school to the top five performing schools.    
-3. Since the 9th graders score
+3. Since the 9th graders scores from Thomson High School were ommitted, the math and reading scores by grade average are at 80% range.
+4. The overall passing percentage for Thomas High School students are at 63% by school spending, 91% by school size and 90% by school type.
 
 ## Resources:
-### Anaconda (PythonData), Jupyter Notebook, Python
+  Anaconda (PythonData), Jupyter Notebook, Git Bash
+  
+  students_complete.csv & schools_complete.csv
