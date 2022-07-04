@@ -7,7 +7,7 @@
 
 - How is the district summary affected?
   
-  After performing the school district analysis with the adjusted math and reading grade scores, the district summary report yield no significant change. At most, the difference between the initial and adjusted summaries is no more than 0.3%.
+  After performing the school district analysis with the adjusted math and reading grade scores, the district summary report yield no significant change. At most, the   difference between the initial and adjusted summaries is no more than 0.3%.
   
   Initial District Report:
   
@@ -19,7 +19,7 @@
 
 - How is the school summary affected?
 
-  The school summary analysis with the adjusted math and reading grade scores yield very significant change where the average and overall passing percentages went from the 60% range to 90% range.
+  The school summary analysis with the adjusted math and reading grade scores yield very significant change where the average and overall passing percentages went from   the 60% range to 90% range.
   
   Initial School Summary:
   
@@ -55,7 +55,13 @@
 
   <img width="530" alt="Scores by School Type" src="https://user-images.githubusercontent.com/106962921/177181921-257befc9-d04a-4806-900a-ac8280874de5.png">
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+  There are at least four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced 
+  with NaNs:
+
+1. The passing percentage for both subjects change from the 60% range to the 90% range.   
+2. Thomson High School went from the bottom perfoming school to the top five performing schools.    
+3. Since the 9th graders score
 
 ## Resources:
 ### Anaconda (PythonData), Jupyter Notebook, Python
