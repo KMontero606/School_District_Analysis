@@ -19,7 +19,7 @@
 
 - How is the school summary affected?
 
-  The school summary analysis with the adjusted math and reading grade scores yield very significant change where the passing math and reading percentage are at 93% and 97% respectively from 67% and 70% repectively and overall passing percentages is at 91% from 65%.
+  The school summary analysis with the adjusted math and reading grade scores yield very significant change where the passing math and reading percentages are at 93% and 97% respectively from 67% and 70% repectively and overall passing percentage at 91% from 65%.
   
   Initial School Summary:
   
